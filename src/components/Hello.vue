@@ -34,7 +34,7 @@ const options = {
         <span class="font-semibold text-green-600">Desod</span>
       </div>
 
-      <div class="my-4 h-44">
+      <div class="my-4">
         <p class="font-bold mb-1">Summary</p>
         <p>
           - With knowledge, creation and passion, I always find, learn and work to be an
@@ -53,16 +53,8 @@ const options = {
         </Typed>
       </div>
 
-      <ul class="list-disc border-t pt-6 mt-8 px-6">
-        <li>Gender male &#128102;</li>
-        <li>
-          &#127874;
-          <span
-            >Born in 2000<span class="text-red-600">*</span> (Age:
-            {{ moment().diff("2000-12-04", "years") }})</span
-          >
-        </li>
-        <li>&#127759; Nationality Vietnamese</li>
+      <ul class="list-disc border-t mt-10 px-6">
+        
         <li>&#127969; Ha Noi, Viet Nam</li>
         <li>&#128266; Languages: Vietnamese, English</li>
       </ul>
