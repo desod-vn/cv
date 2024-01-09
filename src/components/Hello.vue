@@ -36,14 +36,16 @@ const options = {
 
       <div class="my-4">
         <p class="font-bold mb-1">Summary</p>
-        <p>
-          - With knowledge, creation and passion, I always find, learn and work to be an
-          expert in major, which i follow.
-        </p>
-        <p>
-          - Keep curiosity will lead me to discover and grow on career path and self
-          growth, better and better.
-        </p>
+        <div class="hidden md:block">
+          <p>
+            - With knowledge, creation and passion, I always find, learn and work to be an
+            expert in major, which i follow.
+          </p>
+          <p>
+            - Keep curiosity will lead me to discover and grow on career path and self
+            growth, better and better.
+          </p>
+        </div>
         <br />
         <Typed :options="options">
           <span
