@@ -1,17 +1,12 @@
 <script setup>
   import Hello from './components/Hello.vue';
-  import Skill from './components/Skill.vue';
   import Experience from './components/Experience.vue';
 </script>
 
 <template>
   <header class="header__background h-screen">
     <div class="block lg:flex justify-between">
-      <Hello class="lg:w-1/4 w-full"/>
-      <div class="w-1/3">
-        <Skill />
-        <Experience />
-      </div>
+      <Hello class="lg:w-1/2 xl:w-1/3 w-full"/>
     </div>
   </header>
 </template>

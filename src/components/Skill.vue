@@ -5,26 +5,16 @@
     </div>
     <ul style="list-style-type:square;" class="mt-4 px-6">
       <li>
-        <strong>PHP</strong>: <span class="font-semibold text-rose-400">Laravel &#128293;</span>, Raw PHP, Code Igniter, Wordpress
+        <strong>BACKEND:</strong> 
+        <br />
+        PHP (<span class="font-semibold text-red-700">Laravel &#128293;</span>, Raw PHP, Code Igniter, Wordpress), C#, Java, NodeJS
       </li>
       <li>
-        <strong>Javascript</strong>: <span class="font-semibold text-rose-400">VueJS &#128293;</span>, ReactJS, Nuxt, NodeJS
+        <strong>FRONTEND</strong>:
+        <br />
+        <span class="font-semibold text-red-700">VueJS &#128293;</span>, ReactJS, Nuxt, JQuery
       </li>
-      <li>
-        <strong>UI</strong>: Bootstrap, Vuetify, AntDesign, TailwindCSS ...
-      </li>
-      <li>
-        <strong>C#</strong>: ASP.NET CORE
-      </li>
-      <li>
-        <strong>Java</strong>: Spring Boot
-      </li>
-      <li>
-        <strong>DBMS</strong>: MySQL, SQL Server
-      </li>
-      <li>
-        <strong>OTHERS</strong>: GIT, Docker, Linux, Composer, NPM, C/C++ ...
-      </li>
+      
     </ul>
   </div>
 </template>
